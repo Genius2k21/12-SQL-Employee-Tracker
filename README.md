@@ -4,7 +4,9 @@
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Description
 A command line application that implements the inquirer npm package to prompt questions to the user about project information. It then uses that information to generate a professional README file.
-https://github.com/Genius2k21/12-SQL-Employee-Tracker/blob/6e39319b5c88a6f17ad2136874e12b746105836a/assets/12%20MYSQL%20Employee%20Tracker%20JMB.mp4
+
+https://user-images.githubusercontent.com/85536828/135202366-92b398a0-2f95-42f5-8076-07bc4478069c.mp4
+
 
 ## Table of Contents
 * [Installation](#installation)
